@@ -1,0 +1,16 @@
+
+# Entorno virtual de Python
+venv/
+
+# Caché de Python
+__pycache__/
+
+# Carpeta donde vamos a subir las imágenes de pedido
+uploads/
+
+# Entorno de variables de entorno (si usas .env)
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
